@@ -5,7 +5,7 @@
  - 💞️ I’m looking to collaborate on Frontend Development...
   
 # 📫 How to reach me :- 
- @ undrilingquarter@gmail.com 
+- @ undrilingquarter@gmail.com 
   
 # Connect with me :-
 -   https://www.linkedin.com/in/manash-baruah-MB
