@@ -11,9 +11,12 @@
 -   https://www.linkedin.com/in/manash-baruah-MB
 
 # Languages and Tools :-
-![image](https://github.com/user-attachments/assets/c4ab16f9-c9f1-4997-9852-bb6c87d05cc4)
- ![image](https://github.com/user-attachments/assets/677558d6-4f9a-44c8-ab46-0fbf84003ded) ![image](https://github.com/user-attachments/assets/77464232-4fd3-427f-9d99-d46131a9edfd) <br />
-![image](https://github.com/user-attachments/assets/1243cd1d-70e9-4656-9961-a7b26fc31ea6) ![image](https://github.com/user-attachments/assets/2b534f3d-0f90-49aa-aa32-b8395a15f53e) ![image](https://github.com/user-attachments/assets/7f789dcf-f764-41ed-bf4a-4c67285aef43) ![image](https://github.com/user-attachments/assets/26aa3145-178e-4898-9bbd-1777ccb9ff23)
+![image](https://github.com/user-attachments/assets/c4ab16f9-c9f1-4997-9852-bb6c87d05cc4) <br>
+![image](https://github.com/user-attachments/assets/1243cd1d-70e9-4656-9961-a7b26fc31ea6) <br>
+![image](https://github.com/user-attachments/assets/2b534f3d-0f90-49aa-aa32-b8395a15f53e) <br> 
+![image](https://github.com/user-attachments/assets/7f789dcf-f764-41ed-bf4a-4c67285aef43) <br> 
+![image](https://github.com/user-attachments/assets/26aa3145-178e-4898-9bbd-1777ccb9ff23) <br />
+![image](https://github.com/user-attachments/assets/677558d6-4f9a-44c8-ab46-0fbf84003ded)  ![image](https://github.com/user-attachments/assets/77464232-4fd3-427f-9d99-d46131a9edfd) 
 
 
 
