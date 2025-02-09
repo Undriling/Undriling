@@ -16,6 +16,7 @@
 - CSS3
 - Bootstrap
 - JavaScript
+- React
 - Python
 - Flask
 - Git
