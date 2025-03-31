@@ -6,17 +6,23 @@
  - Let's connect to discuss potential collaborations or share insights on the evolving landscape of technology...
   
 # 📫 How to reach me :- 
-- @ undrilingquarter@gmail.com 
+  📧 undrilingquarter@gmail.com 
   
 # Connect with me :-
--   https://www.linkedin.com/in/manash-baruah-MB
+ - https://www.linkedin.com/in/manash-baruah-MB
 
 # Languages and Tools :-
+- JavaScript
+- ReactJS
+- Tailwind CSS
+- Firebase
+- Google Authentication
+- Redux/Redux Toolkits
+- Framer Motion Animation 
 - HTML5 
 - CSS3
 - Bootstrap
-- JavaScript
-- ReactJS
+- Shadcn/UI
 - Python
 - Flask
 - Git
