@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manash Baruah</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Node.Js**
-
 - 👯 I’m looking to collaborate on **React.Js**
 
 - 📫 How to reach me **undrilingquarter@gmail.com**
