@@ -13,19 +13,23 @@
 
 # Languages and Tools :-
 - JavaScript
-- ReactJS
+- React.Js
+- TypeScript
 - Tailwind CSS
 - Firebase
 - Google Authentication
 - Redux/Redux Toolkits
-- Framer Motion Animation 
+- Framer Motion Animation
+- GSAP Animation
 - HTML5 
 - CSS3
 - Bootstrap
 - Shadcn/UI
+- Bootstrap
 - Python
 - Flask
 - Git
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg[https://reactjs.org/]
 
 
 
