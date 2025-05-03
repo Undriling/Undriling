@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manash Baruah</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 👯 I’m looking to collaborate on **React.Js**
+- 👯 I’m looking to collaborate on **Web-Development**
 
 - 📫 How to reach me **undrilingquarter@gmail.com**
 
